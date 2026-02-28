@@ -4,3 +4,5 @@ Featured travel destinations
 Travel stories and journal entries
 Clean UI with structured sections
 Responsive design for different screen sizes
+
+Link to webpage: https://amrit777-stack.github.io/Journey-Journal/
